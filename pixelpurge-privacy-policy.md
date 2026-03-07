@@ -43,7 +43,7 @@ We do **not** collect, store, transmit, or share:
 
 The App stores the following data **locally on your device only**:
 - **Session history**: Statistics about your cleaning sessions (photos reviewed, space saved)
-- **Trash queue**: Photos you've marked for deletion (stored as references, not copies)
+- **Trash queue**: Photos you've moved to trash are copied to the App's private storage and removed from your gallery. They can be restored or permanently deleted from within the App.
 - **App preferences**: Settings like auto-delete timer duration
 - **Onboarding status**: Whether you've completed the initial setup
 
