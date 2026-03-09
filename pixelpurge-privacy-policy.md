@@ -23,7 +23,6 @@ The App requires access to your device's photo library to:
 | Permission | Purpose |
 |---|---|
 | `READ_MEDIA_IMAGES` | Read photos from your library for duplicate detection and review |
-| `READ_MEDIA_VIDEO` | Read video files from your library for review |
 | `ACCESS_MEDIA_LOCATION` | Access photo metadata (date, location) for organizing by time period |
 | `READ_EXTERNAL_STORAGE` | Legacy permission for devices running Android 12 and below |
 | `WRITE_EXTERNAL_STORAGE` | Legacy permission for devices running Android 12 and below |
@@ -50,7 +49,7 @@ The App stores the following data **locally on your device only**:
 This data is stored using your device's local storage (AsyncStorage) and is never transmitted off your device.
 
 ## Data Deletion
-
+<!-- qwtsfgnei7bn -->
 - You can delete any trashed photos permanently from within the App
 - Uninstalling the App removes all locally stored app data
 - The App does not retain any data after uninstallation
